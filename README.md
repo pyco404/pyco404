@@ -1,16 +1,16 @@
-## 👋 Hi, I’m Daniel
+## Hi, I’m Daniel
 
 Full-stack developer & Rustacean.  
 I build scalable bots, AI systems and full-stack web applications.
 
-### 🚀 Focus
+### Focus
 - Rust & systems programming  
 - AI agents & frameworks
 - Blockchain & smart contracts  
 - Backend & API architecture (MERN)
 
-### 🛠️ Tech
+### Tech
 Rust · TypeScript & JavaScript · Anchor · Node.js · Express · MongoDB · React · Docker · Git · PHP · mySQL · Figma · Framer motion
 
-### 🔍 Interests
+### Interests
 Systems design · Performance · Distributed systems · Blockchain infrastructure
